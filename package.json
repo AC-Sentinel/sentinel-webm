@@ -1,0 +1,22 @@
+{
+  "name": "@sentinel-ac/sentinel-webm",
+  "version": "1.0.0",
+  "description": "Recorder for Sentinel-AC",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "webm",
+    "video",
+    "duration",
+    "mediarecorder",
+    "fix-webm-duration"
+  ],
+  "author": "clxsx",
+  "license": "MIT"
+}
